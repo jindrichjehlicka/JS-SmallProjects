@@ -1,2 +1,2 @@
 # JS-SmallProjects
-Practicing vanilla JS(ES6) - fetching API, RegExp
+Practicing vanilla JS(ES6) - fetching API, RegExp, DOM manipulation...
